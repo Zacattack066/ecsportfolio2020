@@ -1,4 +1,4 @@
-## Welcome to Mr Kapptie ecs portfolio 
+## Welcome to Mr Kapptie ECS portfolio 
 
 You can use the [editor on GitHub](https://github.com/Zacattack066/ecsportfolio2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
